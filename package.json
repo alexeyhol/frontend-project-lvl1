@@ -1,0 +1,23 @@
+{
+  "name": "brain-games",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/alexeyhol/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/alexeyhol/frontend-project-lvl1/actions)",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bi"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyhol/frontend-project-lvl1.git"
+  },
+  "author": "Alexey Kholodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexeyhol/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/alexeyhol/frontend-project-lvl1#readme"
+}
